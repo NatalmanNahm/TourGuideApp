@@ -1,0 +1,22 @@
+<resources>
+    <!-- Title for the app -->
+    <string name="app_name">Tour Guide App</string>
+
+    <!-- Attraction name for Caribou [CHAR LIMIT=20] -->
+    <string name="attraction_caribou">Caribou</string>
+
+    <!-- Attraction name for Malls [CHAR LIMIT=20] -->
+    <string name="attraction_malls">Malls</string>
+
+    <!-- Attraction name for Museums [CHAR LIMIT=20] -->
+    <string name="attraction_museum">Museums</string>
+
+    <!-- Attraction name for Parks [CHAR LIMIT=20] -->
+    <string name="attraction_park">Parks</string>
+
+    <!-- Attraction name for Restaurants [CHAR LIMIT=20] -->
+    <string name="attraction_restaurant">Restaurants</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
